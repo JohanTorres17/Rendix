@@ -1,11 +1,11 @@
 // Logos reales de RendiX usando las imágenes originales
 
-import logoRojo    from '../assets/logo-rojo.png'
-import logoNegro   from '../assets/logo-negro.png'
-import logoVerde   from '../assets/logo-verde.png'
-import simNegro    from '../assets/simbolo-negro.png'
-import simNaranja  from '../assets/simbolo-naranja.png'
-import simVerde    from '../assets/simbolo-verde.png'
+import logoRojo    from '../assets/logo-rojo.png.jpeg'
+import logoNegro   from '../assets/logo-negro.png.jpeg'
+import logoVerde   from '../assets/logo-verde.png.jpeg'
+import simNegro    from '../assets/simbolo-negro.png.jpeg'
+import simNaranja  from '../assets/simbolo-naranja.png.jpeg'
+import simVerde    from '../assets/simbolo-verde.png.jpeg'
 
 export const LogoRojo = ({ height = 60, style }) => (
   <img src={logoRojo} alt="RendiX logo rojo" height={height} style={{ objectFit: 'contain', ...style }} />
