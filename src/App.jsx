@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar.jsx'
+import Navbar from './components/NavBar.jsx'
 import Cover from './components/Cover.jsx'
 import LaMarca from './components/LaMarca.jsx'
 import Concepto from './components/Concepto.jsx'
